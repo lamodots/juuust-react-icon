@@ -1,6 +1,6 @@
 {
   "name": "juuust-react-icon-by-lamo",
-  "version": "0.1.32",
+  "version": "0.1.33",
   "description": "Icon automation workflow with Figma",
   "main": "dist/juuust-react-icon.cjs.js",
   "module": "dist/juuust-react-icon.esm.js",
