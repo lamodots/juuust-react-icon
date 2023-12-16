@@ -17,7 +17,7 @@ jobs:
     - uses: actions/setup-node@v1
       with:
         node-version: '10.x'
-    - run: yarn fetch
+    - run: yarn install
     - name: Figma Action
       uses: primer/figma-action@v1.0.0-alpha.2
       with:
